@@ -20,3 +20,5 @@ public class Main {
 
         üÇevresi = 2*u;
         System.out.println("Üçgenin çevresi: " +üÇevresi);
+        
+        www.patika.dev
