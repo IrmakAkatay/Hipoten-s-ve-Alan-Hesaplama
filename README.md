@@ -1,0 +1,1 @@
+# Hipoten-s-ve-Alan-Hesaplama
