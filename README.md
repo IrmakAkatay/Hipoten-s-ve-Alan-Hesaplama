@@ -1,5 +1,8 @@
 # Hipotenüs-ve-Alan-Hesaplama
 
+
+
+
 import java.util.Scanner;
 
 public class Main {
